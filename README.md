@@ -1,4 +1,4 @@
-#THE ALMOST FINAL COUNTDOWN
+# THE ALMOST FINAL COUNTDOWN
 
 **Final Countdown** is a focused project I embarked on to delve deeper into React, specifically around creating dynamic and interactive countdown timers. This project serves as a practical exploration into handling state, lifecycle methods, and time-based events in React applications.
 
